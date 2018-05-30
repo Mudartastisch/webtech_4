@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="peanuts.xsl"?>
+<peanuts>
+  <character intro="1950">
+    <name>Charlie</name>
+    <surname>Brown</surname>
+  </character>
+  <character intro="1952">
+    <name>Lucy</name>
+    <surname>van Pelt</surname>
+  </character>
+  <character intro="1952">
+    <name>Linus</name>
+    <surname>van Pelt</surname>
+  </character>
+  <character intro="1950">
+    <name>Snoopy</name>
+  </character>
+  <character intro="1959">
+    <name>Sally</name>
+    <surname>Brown</surname>
+  </character>
+  <character intro="1966">
+    <name>Patricia</name>
+    <surname>Reichardt</surname>
+  </character>
+  <character intro="1951">
+    <name>Violet</name>
+    <surname>Gray</surname>
+  </character>
+  <character intro="1973">
+    <name>Rerun</name>
+    <surname>van Pelt</surname>
+  </character>
+  <character intro="1970">
+    <name>Woodstock</name>
+  </character>
+</peanuts>
